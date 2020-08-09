@@ -1,0 +1,4 @@
+pytest
+pytest-mock
+pip-tools
+pytest-cov
